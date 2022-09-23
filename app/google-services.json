@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "476776956412",
+    "project_id": "task1-ff98a",
+    "storage_bucket": "task1-ff98a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476776956412:android:68fb602f34bbab96c3f279",
+        "android_client_info": {
+          "package_name": "com.vikrant.task1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476776956412-psvbc4gn5nnnc3dvete1v7sv8ahe49a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vikrant.task1",
+            "certificate_hash": "ad7a3bc14582da011586128c3dcba7c359e20803"
+          }
+        },
+        {
+          "client_id": "476776956412-r8ujfsinoil9q7mbdqrkns75lahjbsce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2T5dk8XFpmWxbYlgshuTS7c5Z6yqP9gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476776956412-r8ujfsinoil9q7mbdqrkns75lahjbsce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

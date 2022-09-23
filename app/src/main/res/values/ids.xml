@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="guideline_l" type="id" />
+    <item name="guideline_r" type="id" />
+    <item name="guideline_img_top" type="id" />
+    <item name="guideline_pb_l" type="id" />
+    <item name="guideline_pb_r" type="id" />
+    <item name="guideline_img_btm" type="id" />
+    <item name="guideline_pb_btm" type="id" />
+    <item name="a1_app_logo" type="id" />
+    <item name="a1_progressbar" type="id" />
+</resources>
